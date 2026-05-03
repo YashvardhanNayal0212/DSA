@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0507-perfect-number) |
 | [1952-three-divisors](https://github.com/YashvardhanNayal0212/DSA/tree/master/1952-three-divisors) |
 ## Enumeration
