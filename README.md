@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/YashvardhanNayal0212/DSA/tree/master/1952-three-divisors) |
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
