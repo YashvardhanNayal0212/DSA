@@ -1,6 +1,6 @@
 class Solution:
     def firstPalindrome(self, words: List[str]) -> str:
-        for char in words:
-            if char==char[::-1]:
-                return char
-        return ""
+        for i in words:
+            if i==i[::-1]:
+                return i
+        return ""        
