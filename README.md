@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0771-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
