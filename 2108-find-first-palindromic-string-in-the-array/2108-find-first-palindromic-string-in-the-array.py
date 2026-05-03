@@ -3,4 +3,4 @@ class Solution:
         for i in words:
             if i==i[::-1]:
                 return i
-        return ""        
+        return ""
