@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0771-jewels-and-stones) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2833-furthest-point-from-origin](https://github.com/YashvardhanNayal0212/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/YashvardhanNayal0212/DSA/tree/master/0035-search-insert-position) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/YashvardhanNayal0212/DSA/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
