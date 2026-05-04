@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/YashvardhanNayal0212/DSA/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0485-max-consecutive-ones) |
+| [1051-height-checker](https://github.com/YashvardhanNayal0212/DSA/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1929-concatenation-of-array) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YashvardhanNayal0212/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/YashvardhanNayal0212/DSA/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/YashvardhanNayal0212/DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
