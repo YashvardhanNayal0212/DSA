@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YashvardhanNayal0212/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YashvardhanNayal0212/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/YashvardhanNayal0212/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1952-three-divisors](https://github.com/YashvardhanNayal0212/DSA/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/YashvardhanNayal0212/DSA/tree/master/2413-smallest-even-multiple) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/YashvardhanNayal0212/DSA/tree/master/2833-furthest-point-from-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YashvardhanNayal0212/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
