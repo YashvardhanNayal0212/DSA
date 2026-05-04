@@ -1,8 +1,6 @@
 class Solution:
     def furthestDistanceFromOrigin(self, moves: str) -> int:
-        l=0
-        r=0
-        blank=0
+        l=r=blank=0
         for char in moves:
             if char=="L":
                 l+=1
