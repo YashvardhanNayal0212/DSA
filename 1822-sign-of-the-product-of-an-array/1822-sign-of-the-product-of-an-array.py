@@ -7,5 +7,5 @@ class Solution:
             return 1
         elif prod<0:
             return -1
-        elif prod==0:
+        else:
             return 0
