@@ -1,13 +1,11 @@
 class Solution:
     def alternatingSum(self, nums: List[int]) -> int:
-        sum=0
-        for i in range (len(nums)):
-            if i==0:
-                sum+=nums[i]
-            elif i==1:
-                sum-=nums[i]
-            elif i%2==0:
-                sum+=nums[i]
+        total = 0
+        
+        for i in range(len(nums)):
+            if i % 2 == 0:
+                total += nums[i]
             else:
-                sum-=nums[i]
-        return sum
+                total -= nums[i]
+                
+        return total
