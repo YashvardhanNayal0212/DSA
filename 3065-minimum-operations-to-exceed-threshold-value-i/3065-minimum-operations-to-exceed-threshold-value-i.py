@@ -1,7 +1,7 @@
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
-        c=0
-        for i in range(len(nums)-1,-1,-1):
-            if nums[i]<k:
-                c+=1
-        return c
+        count = 0
+        for i in range(len(nums)):
+            if nums[i] < k:
+                count += 1
+        return count
