@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/YashvardhanNayal0212/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/YashvardhanNayal0212/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/YashvardhanNayal0212/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YashvardhanNayal0212/DSA/tree/master/2574-left-and-right-sum-differences) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/YashvardhanNayal0212/DSA/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YashvardhanNayal0212/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/YashvardhanNayal0212/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
