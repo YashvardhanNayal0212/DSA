@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0485-max-consecutive-ones) |
 | [1051-height-checker](https://github.com/YashvardhanNayal0212/DSA/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/YashvardhanNayal0212/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/YashvardhanNayal0212/DSA/tree/master/1550-three-consecutive-odds) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YashvardhanNayal0212/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/YashvardhanNayal0212/DSA/tree/master/1051-height-checker) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YashvardhanNayal0212/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/YashvardhanNayal0212/DSA/tree/master/1672-richest-customer-wealth) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
