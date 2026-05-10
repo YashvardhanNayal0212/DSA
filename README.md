@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/YashvardhanNayal0212/DSA/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/YashvardhanNayal0212/DSA/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/YashvardhanNayal0212/DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0509-fibonacci-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/YashvardhanNayal0212/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YashvardhanNayal0212/DSA/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/YashvardhanNayal0212/DSA/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
