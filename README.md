@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YashvardhanNayal0212/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YashvardhanNayal0212/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/YashvardhanNayal0212/DSA/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YashvardhanNayal0212/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/YashvardhanNayal0212/DSA/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
