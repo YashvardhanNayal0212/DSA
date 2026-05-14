@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YashvardhanNayal0212/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2784-check-if-array-is-good](https://github.com/YashvardhanNayal0212/DSA/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/YashvardhanNayal0212/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/YashvardhanNayal0212/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2784-check-if-array-is-good](https://github.com/YashvardhanNayal0212/DSA/tree/master/2784-check-if-array-is-good) |
 | [3668-restore-finishing-order](https://github.com/YashvardhanNayal0212/DSA/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YashvardhanNayal0212/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/YashvardhanNayal0212/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2784-check-if-array-is-good](https://github.com/YashvardhanNayal0212/DSA/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
