@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/YashvardhanNayal0212/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/YashvardhanNayal0212/DSA/tree/master/1952-three-divisors) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YashvardhanNayal0212/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/YashvardhanNayal0212/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/YashvardhanNayal0212/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/YashvardhanNayal0212/DSA/tree/master/2427-number-of-common-factors) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YashvardhanNayal0212/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/YashvardhanNayal0212/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YashvardhanNayal0212/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2784-check-if-array-is-good](https://github.com/YashvardhanNayal0212/DSA/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YashvardhanNayal0212/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
