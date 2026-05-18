@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2544-alternating-digit-sum](https://github.com/YashvardhanNayal0212/DSA/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/YashvardhanNayal0212/DSA/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YashvardhanNayal0212/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/YashvardhanNayal0212/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YashvardhanNayal0212/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/YashvardhanNayal0212/DSA/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashvardhanNayal0212/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/YashvardhanNayal0212/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YashvardhanNayal0212/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3285-find-indices-of-stable-mountains](https://github.com/YashvardhanNayal0212/DSA/tree/master/3285-find-indices-of-stable-mountains) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/YashvardhanNayal0212/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YashvardhanNayal0212/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashvardhanNayal0212/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/YashvardhanNayal0212/DSA/tree/master/3668-restore-finishing-order) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/YashvardhanNayal0212/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/YashvardhanNayal0212/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/YashvardhanNayal0212/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Two Pointers
 |  |
 | ------- |
