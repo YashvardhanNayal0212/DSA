@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/YashvardhanNayal0212/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/YashvardhanNayal0212/DSA/tree/master/2544-alternating-digit-sum) |
+| [2651-calculate-delayed-arrival-time](https://github.com/YashvardhanNayal0212/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/YashvardhanNayal0212/DSA/tree/master/2652-sum-multiples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YashvardhanNayal0212/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashvardhanNayal0212/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
