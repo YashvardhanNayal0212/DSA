@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YashvardhanNayal0212/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2540-minimum-common-value](https://github.com/YashvardhanNayal0212/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YashvardhanNayal0212/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2784-check-if-array-is-good](https://github.com/YashvardhanNayal0212/DSA/tree/master/2784-check-if-array-is-good) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/YashvardhanNayal0212/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2540-minimum-common-value](https://github.com/YashvardhanNayal0212/DSA/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/YashvardhanNayal0212/DSA/tree/master/2784-check-if-array-is-good) |
 | [3668-restore-finishing-order](https://github.com/YashvardhanNayal0212/DSA/tree/master/3668-restore-finishing-order) |
 ## String
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/YashvardhanNayal0212/DSA/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2540-minimum-common-value](https://github.com/YashvardhanNayal0212/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YashvardhanNayal0212/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/YashvardhanNayal0212/DSA/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/YashvardhanNayal0212/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/YashvardhanNayal0212/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
