@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashvardhanNayal0212/DSA/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YashvardhanNayal0212/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/YashvardhanNayal0212/DSA/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/YashvardhanNayal0212/DSA/tree/master/2540-minimum-common-value) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/YashvardhanNayal0212/DSA/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/YashvardhanNayal0212/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
