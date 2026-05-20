@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashvardhanNayal0212/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YashvardhanNayal0212/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/YashvardhanNayal0212/DSA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/YashvardhanNayal0212/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
