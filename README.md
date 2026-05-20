@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YashvardhanNayal0212/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashvardhanNayal0212/DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0088-merge-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YashvardhanNayal0212/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/YashvardhanNayal0212/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/YashvardhanNayal0212/DSA/tree/master/0069-sqrtx) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YashvardhanNayal0212/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/YashvardhanNayal0212/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
