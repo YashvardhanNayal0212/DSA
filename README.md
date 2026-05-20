@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/YashvardhanNayal0212/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/YashvardhanNayal0212/DSA/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/YashvardhanNayal0212/DSA/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0771-jewels-and-stones) |
