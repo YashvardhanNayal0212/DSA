@@ -3,11 +3,11 @@ class Solution:
         arr=[]
         temp=[]
         count=0
-        for i in range(len(nums)):
-            if nums[i]<pivot:
-                arr.append(nums[i])
-            elif nums[i]>pivot:
-                temp.append(nums[i])
+        for i in nums:
+            if i<pivot:
+                arr.append(i)
+            elif i>pivot:
+                temp.append(i)
             else:
                 count+=1
         return arr+[pivot]*count+temp
