@@ -10,7 +10,4 @@ class Solution:
                 temp.append(nums[i])
             else:
                 count+=1
-        for i in range(count):
-            arr.append(pivot)
-        arr.extend(temp)
-        return arr
+        return arr+[pivot]*count+temp
