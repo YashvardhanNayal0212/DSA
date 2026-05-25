@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/YashvardhanNayal0212/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YashvardhanNayal0212/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashvardhanNayal0212/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/YashvardhanNayal0212/DSA/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/YashvardhanNayal0212/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YashvardhanNayal0212/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YashvardhanNayal0212/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/YashvardhanNayal0212/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/YashvardhanNayal0212/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YashvardhanNayal0212/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/YashvardhanNayal0212/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/YashvardhanNayal0212/DSA/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YashvardhanNayal0212/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Divide and Conquer
 |  |
