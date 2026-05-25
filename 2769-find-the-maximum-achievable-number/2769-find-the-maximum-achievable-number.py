@@ -1,3 +1,4 @@
 class Solution:
     def theMaximumAchievableX(self, num: int, t: int) -> int:
-        return num+2*t
+        x= num+2*t
+        return x
