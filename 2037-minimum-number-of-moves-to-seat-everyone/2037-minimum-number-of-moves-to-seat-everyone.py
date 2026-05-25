@@ -4,6 +4,5 @@ class Solution:
         students.sort()
         s=0
         for i in range (len(students)):
-            n=abs(students[i]-seats[i])
-            s+=n
+            s+=abs(students[i]-seats[i])
         return s
