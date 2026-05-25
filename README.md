@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashvardhanNayal0212/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YashvardhanNayal0212/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/YashvardhanNayal0212/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3895-count-digit-appearances](https://github.com/YashvardhanNayal0212/DSA/tree/master/3895-count-digit-appearances) |
 ## Enumeration
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/YashvardhanNayal0212/DSA/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/YashvardhanNayal0212/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/YashvardhanNayal0212/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3895-count-digit-appearances](https://github.com/YashvardhanNayal0212/DSA/tree/master/3895-count-digit-appearances) |
 ## Simulation
 |  |
 | ------- |
