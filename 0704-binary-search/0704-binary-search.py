@@ -7,7 +7,7 @@ class Solution:
             if nums[mid]==target:
                 return mid
             elif target<nums[mid]:
-                high-=1
+                high=mid-1
             else:
-                low+=1
+                low=mid+1
         return -1
