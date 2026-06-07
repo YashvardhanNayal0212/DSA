@@ -9,7 +9,7 @@ class Solution:
         for j in range(len(nums)-2,-1,-1):
             num+=nums[j+1]
             r.append(num)
-        rev=r[::-1]
+        r=r[::-1]
         for i in range (len(nums)):
-            l[i]=abs(l[i]-rev[i])
+            l[i]=abs(l[i]-r[i])
         return l
