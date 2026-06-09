@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashvardhanNayal0212/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/YashvardhanNayal0212/DSA/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/YashvardhanNayal0212/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3689-maximum-total-subarray-value-i](https://github.com/YashvardhanNayal0212/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/YashvardhanNayal0212/DSA/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/YashvardhanNayal0212/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/YashvardhanNayal0212/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/YashvardhanNayal0212/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YashvardhanNayal0212/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/YashvardhanNayal0212/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3689-maximum-total-subarray-value-i](https://github.com/YashvardhanNayal0212/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
 |  |
 | ------- |
