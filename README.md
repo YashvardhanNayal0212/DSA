@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/YashvardhanNayal0212/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/YashvardhanNayal0212/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/YashvardhanNayal0212/DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/YashvardhanNayal0212/DSA/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/YashvardhanNayal0212/DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/YashvardhanNayal0212/DSA/tree/master/0509-fibonacci-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/YashvardhanNayal0212/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/YashvardhanNayal0212/DSA/tree/master/0657-robot-return-to-origin) |
 | [1688-count-of-matches-in-tournament](https://github.com/YashvardhanNayal0212/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/YashvardhanNayal0212/DSA/tree/master/1920-build-array-from-permutation) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/YashvardhanNayal0212/DSA/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/YashvardhanNayal0212/DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/YashvardhanNayal0212/DSA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/YashvardhanNayal0212/DSA/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/YashvardhanNayal0212/DSA/tree/master/0771-jewels-and-stones) |
 | [1816-truncate-sentence](https://github.com/YashvardhanNayal0212/DSA/tree/master/1816-truncate-sentence) |
